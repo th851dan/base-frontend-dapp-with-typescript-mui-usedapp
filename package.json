@@ -1,16 +1,18 @@
 {
-  "name": "base-frontend-dapp-with-typescript-mui-usedapp",
+  "name": "userwallet",
   "version": "5.0.0",
   "private": true,
   "dependencies": {
     "@emotion/react": "latest",
     "@emotion/styled": "latest",
+    "@mui/icons-material": "^5.2.5",
     "@mui/material": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "@usedapp/core": "^0.7.3",
     "react": "latest",
     "react-dom": "latest",
+    "react-router-dom": "^6.2.1",
     "react-scripts": "latest",
     "typescript": "latest"
   },
